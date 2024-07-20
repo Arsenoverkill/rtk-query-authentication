@@ -13,3 +13,6 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+body {
+  background-image: url(/src/assets/Login.svg);
+}
