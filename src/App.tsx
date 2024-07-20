@@ -4,7 +4,7 @@ import fon from "./assets/Login.svg";
 
 function App() {
   return (
-    <div className="app" style={{ backgroundImage: `url(${fon})` }}>
+    <div className="app">
       <RouterProvider router={router}></RouterProvider>
     </div>
   );
